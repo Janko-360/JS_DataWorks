@@ -1,6 +1,11 @@
-Data Works
+# Data Works
 
-A assessed project to practice our skills coding JavaScript. At the end it will be marked by the UoL staff. In my submission I elaborated on the data visualisations. Adding more data sets, graphs and enhancing the old once. Learning as I went along. 
+A assessed project to practice our skills coding JavaScript.I elaborated on the data visualisations. Adding more data sets, graphs and enhancing the old once. Learning as I went along. 
+
+Requirements: 
+  - JavaScript 
+  - Webbrowser
+  - P5.js
 
 I used code and help from the following sources: 
 Documentation: 
