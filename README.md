@@ -1,8 +1,23 @@
 # Data Works
 A assessed project to practice our skills coding JavaScript. I elaborated on the data visualizations provided by our tutors. Adding more data sets, graphs and enhancing the old visualizations. Learning as I went along. The report PDF includes more details. 
 
+### Welcome page
+![Screenshots](/Screenshots/Welcome.png)
 
+### First Graph
+![Screenshots](/Screenshots/Diversity.png)
 
+### Second Graph
+![Screenshots](/Screenshots/Pay_gap.png)
+
+### Third Graph
+![Screenshots](/Screenshots/Apple_stocks.png)
+
+### Fourth Graph
+![Screenshots](/Screenshots/Amzn.png)
+
+### Fith Graph
+![Screenshots](/Screenshots/Honey_prod.png)
 
 ## Requirements: 
   - JavaScript 
