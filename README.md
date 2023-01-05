@@ -29,8 +29,8 @@ This is essentially a website with lots of JavaScript. So, just host the website
 All assets are included in this repo so no loading form other sources.
 
 
-## I used the Linked list code from @bradtraversy :
-https://gist.github.com/bradtraversy/c38f029e5f9e56a19c393d3a3b1e1544 by [bradtraversy](https://gist.github.com/bradtraversy)
+## I used the Linked list code from [bradtraversy](https://gist.github.com/bradtraversy):
+https://gist.github.com/bradtraversy/c38f029e5f9e56a19c393d3a3b1e1544
 
 ## License 
 GPL 3.0
