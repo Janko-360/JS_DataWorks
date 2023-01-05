@@ -16,7 +16,7 @@ A assessed project to practice our skills coding JavaScript. I elaborated on the
 ### Fourth Graph
 ![Screenshots](/Screenshots/Amzn.png)
 
-### Fith Graph
+### Fifth Graph
 ![Screenshots](/Screenshots/Honey_prod.png)
 
 ## Requirements: 
