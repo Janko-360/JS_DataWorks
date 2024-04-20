@@ -1,5 +1,5 @@
 # Data Works
-A assessed project to practice our skills coding JavaScript. I elaborated on the data visualizations provided by our tutors. Adding more data sets, graphs and enhancing the old visualizations. Learning as I went along. The report PDF includes more details. 
+A assessed project to practice our skills coding JavaScript. Goal was to create visualizations without the aid of graphing libraries, just the p5 library to draw primitive shapes. I elaborated on the data visualizations provided by our tutors. Adding more data sets, graphs and enhancing the old visualizations. Learning as I went along. The report PDF includes more details. 
 
 ### Welcome page
 ![Screenshots](/Screenshots/Welcome.png)
